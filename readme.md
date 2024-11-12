@@ -21,7 +21,7 @@ This repository provides a single Python file containing implementations of esse
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/moiz-mansoori/dsa-in-python.git
+   git clone https://github.com/moiz-mansoori/DSA-in-Python.git
    cd dsa-in-python
 
 2. **Requirements**
